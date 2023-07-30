@@ -7201,3 +7201,724 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.30-22.09.11:123][625]AssetCheck: New page: Asset Save: multiple assets
 [2023.07.30-22.09.11:123][625]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/Items/Base_Item.Base_Item
 [2023.07.30-22.09.11:124][625]LogContentValidation: Display: Validating World /Game/Maps/Map.Map
+[2023.07.30-22.11.54:094][827]BlueprintLog: New page: Compile Item_Banana
+[2023.07.30-22.11.54:206][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.07.30-22.11.54:454][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/Items/Item_Banana" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset" SILENT=true
+[2023.07.30-22.11.54:464][827]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/Items/Item_Banana
+[2023.07.30-22.11.54:465][827]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/Item_Banana5DCDC4CC4324BD48E5FA859A9F53DFD4.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset'
+[2023.07.30-22.11.54:487][827]AssetCheck: New page: Asset Save: Item_Banana
+[2023.07.30-22.11.54:487][827]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/Items/Item_Banana.Item_Banana
+[2023.07.30-22.12.31:081][ 20]Cmd: TRANSACTION UNDO
+[2023.07.30-22.12.31:081][ 20]LogEditorTransaction: Undo Move Node
+[2023.07.30-22.12.31:898][ 49]Cmd: TRANSACTION UNDO
+[2023.07.30-22.12.31:899][ 49]LogEditorTransaction: Undo Break Pin Links
+[2023.07.30-22.12.32:483][ 84]Cmd: TRANSACTION UNDO
+[2023.07.30-22.12.32:483][ 84]LogEditorTransaction: Undo Create Pin Link
+[2023.07.30-22.12.33:084][120]Cmd: TRANSACTION UNDO
+[2023.07.30-22.12.33:084][120]LogEditorTransaction: Undo Move Node
+[2023.07.30-22.12.33:801][163]Cmd: TRANSACTION UNDO
+[2023.07.30-22.12.33:801][163]LogEditorTransaction: Undo Rename Node
+[2023.07.30-22.12.34:451][202]Cmd: TRANSACTION UNDO
+[2023.07.30-22.12.34:451][202]LogEditorTransaction: Undo Add Node
+[2023.07.30-22.12.36:270][311]BlueprintLog: New page: Compile Item_Banana
+[2023.07.30-22.12.36:384][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.07.30-22.12.36:613][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/Items/Item_Banana" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset" SILENT=true
+[2023.07.30-22.12.36:623][311]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/Items/Item_Banana
+[2023.07.30-22.12.36:623][311]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/Item_Banana34D40D10417F47F121A7419EB5C1CE04.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset'
+[2023.07.30-22.12.36:640][311]AssetCheck: New page: Asset Save: Item_Banana
+[2023.07.30-22.12.36:640][311]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/Items/Item_Banana.Item_Banana
+[2023.07.30-22.13.34:378][759]BlueprintLog: New page: Compile AC_Pickupable
+[2023.07.30-22.13.34:491][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.07.30-22.13.34:713][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/Items/AC_Pickupable" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/AC_Pickupable.uasset" SILENT=true
+[2023.07.30-22.13.34:718][759]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/Items/AC_Pickupable
+[2023.07.30-22.13.34:719][759]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/AC_Pickupable572D6A3541417D1EFDA6E7AC370902E9.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/AC_Pickupable.uasset'
+[2023.07.30-22.13.34:737][759]AssetCheck: New page: Asset Save: AC_Pickupable
+[2023.07.30-22.13.34:737][759]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/Items/AC_Pickupable.AC_Pickupable
+[2023.07.30-22.14.05:709][596]BlueprintLog: New page: Compile Item_Banana
+[2023.07.30-22.14.05:816][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.07.30-22.14.06:066][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/Items/Item_Banana" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset" SILENT=true
+[2023.07.30-22.14.06:076][596]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/Items/Item_Banana
+[2023.07.30-22.14.06:076][596]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/Item_Banana406AC2DD4CC8DF7CEA070687B24EA95E.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset'
+[2023.07.30-22.14.06:093][596]AssetCheck: New page: Asset Save: Item_Banana
+[2023.07.30-22.14.06:093][596]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/Items/Item_Banana.Item_Banana
+[2023.07.30-22.15.21:534][ 64]LogEditorTransaction: Undo Move Node
+[2023.07.30-22.15.22:094][ 74]LogEditorTransaction: Undo Add Node
+[2023.07.30-22.15.22:735][114]LogEditorTransaction: Undo Add Node
+[2023.07.30-22.15.27:840][420]LogEditorTransaction: Undo Add Node
+[2023.07.30-22.15.29:459][497]LogEditorTransaction: Undo Delete current selection
+[2023.07.30-22.15.30:193][541]LogEditorTransaction: Undo Delete current selection
+[2023.07.30-22.15.30:676][570]LogEditorTransaction: Undo Create Pin Link
+[2023.07.30-22.15.31:095][595]LogEditorTransaction: Undo Move Node
+[2023.07.30-22.15.31:545][622]LogEditorTransaction: Undo Add Node
+[2023.07.30-22.15.32:212][662]LogEditorTransaction: Undo Rename Node
+[2023.07.30-22.15.32:713][692]LogEditorTransaction: Undo Add Node
+[2023.07.30-22.15.41:821][238]BlueprintLog: New page: Compile AC_Pickupable
+[2023.07.30-22.15.41:931][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.07.30-22.15.42:157][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/Items/AC_Pickupable" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/AC_Pickupable.uasset" SILENT=true
+[2023.07.30-22.15.42:162][238]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/Items/AC_Pickupable
+[2023.07.30-22.15.42:162][238]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/AC_Pickupable313362B24DA8BD8F343EF38726E52560.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/AC_Pickupable.uasset'
+[2023.07.30-22.15.42:197][238]AssetCheck: New page: Asset Save: AC_Pickupable
+[2023.07.30-22.15.42:197][238]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/Items/AC_Pickupable.AC_Pickupable
+[2023.07.30-22.16.02:209][439]BlueprintLog: New page: Compile AC_Pickupable
+[2023.07.30-22.16.02:315][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.07.30-22.16.02:542][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/Items/AC_Pickupable" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/AC_Pickupable.uasset" SILENT=true
+[2023.07.30-22.16.02:547][439]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/Items/AC_Pickupable
+[2023.07.30-22.16.02:548][439]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/AC_Pickupable14D12BE1421D05794FF1CB9B3B8C0CE6.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/AC_Pickupable.uasset'
+[2023.07.30-22.16.02:584][439]AssetCheck: New page: Asset Save: AC_Pickupable
+[2023.07.30-22.16.02:584][439]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/Items/AC_Pickupable.AC_Pickupable
+[2023.07.30-22.16.05:862][637]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.30-22.16.05:874][637]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.30-22.16.05:875][637]LogPlayLevel: [PlayLevel] Compiling Item_Banana before play...
+[2023.07.30-22.16.06:136][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/Items/Item_Banana" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset" SILENT=true
+[2023.07.30-22.16.06:146][637]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/Items/Item_Banana
+[2023.07.30-22.16.06:146][637]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/Item_Banana1109C9114BEBC6AAF02308B2C2295C72.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset'
+[2023.07.30-22.16.06:235][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.07.30-22.16.06:238][637]LogPlayLevel: PlayLevel: Blueprint regeneration took 363 ms (1 blueprints)
+[2023.07.30-22.16.06:238][637]PIE: New page: PIE session: Map (31 июл. 2023 г., 18:16:06)
+[2023.07.30-22.16.06:238][637]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2023.07.30-22.16.06:244][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005877s)
+[2023.07.30-22.16.06:244][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.005973s)
+[2023.07.30-22.16.06:244][637]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.30-22.16.06:244][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.30-22.16.06:245][637]LogAIModule: Creating AISystem for world Map
+[2023.07.30-22.16.06:245][637]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2023.07.30-22.16.06:315][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.07.30-22.16.06:316][637]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.07.30-22.16.06:316][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.30-22.16.06:316][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.30-22.16.06:316][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.30-22.16.06:316][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.30-22.16.06:316][637]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.30-22.16.06:316][637]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.30-22.16.06:316][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.30-22.16.06:316][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.30-22.16.06:317][637]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.30-22.16.06:317][637]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.30-22.16.06:317][637]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.30-22.16.06:319][637]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.30-22.16.06:350][637]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek High Definition Audio)
+[2023.07.30-22.16.06:351][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.30-22.16.06:351][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.30-22.16.06:351][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.30-22.16.06:353][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.07.30-22.16.06:353][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.07.30-22.16.06:354][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.07.30-22.16.06:354][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.07.30-22.16.06:354][637]LogInit: FAudioDevice initialized.
+[2023.07.30-22.16.06:355][637]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map'.
+[2023.07.30-22.16.06:371][637]LogLoad: Game class is 'GameModeMain_C'
+[2023.07.30-22.16.06:372][637]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.07.31-08.16.06
+[2023.07.30-22.16.06:373][637]LogWorld: Bringing up level for play took: 0.001611
+[2023.07.30-22.16.06:375][637]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.07.30-22.16.06:378][637]PIE: Server logged in
+[2023.07.30-22.16.06:379][637]PIE: Play in editor total start time 0,509 seconds.
+[2023.07.30-22.16.06:379][637]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:379][637]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:379][637]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:379][637]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:380][637]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:400][638]AssetCheck: New page: Asset Save: Item_Banana
+[2023.07.30-22.16.06:400][638]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/Items/Item_Banana.Item_Banana
+[2023.07.30-22.16.06:401][638]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:401][638]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:401][638]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:401][638]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:401][638]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:433][639]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:433][639]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:433][639]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:433][639]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:433][639]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:440][640]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:440][640]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:440][640]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:441][640]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:441][640]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:449][641]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:449][641]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:449][641]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:449][641]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:449][641]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:457][642]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:457][642]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:457][642]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:457][642]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:457][642]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:465][643]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:465][643]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:466][643]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:466][643]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:466][643]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:474][644]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:474][644]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:474][644]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:474][644]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:474][644]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:482][645]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:482][645]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:482][645]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:482][645]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:482][645]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:490][646]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:490][646]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:490][646]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:491][646]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:491][646]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:499][647]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:499][647]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:499][647]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:499][647]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:499][647]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:515][648]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:515][648]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:515][648]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:516][648]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:516][648]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:533][649]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:533][649]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:533][649]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:533][649]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:533][649]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:548][650]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:549][650]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:549][650]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:549][650]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:549][650]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:566][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:566][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:566][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:566][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:566][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:582][652]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:582][652]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:582][652]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:582][652]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:582][652]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:599][653]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:599][653]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:599][653]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:599][653]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:599][653]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:616][654]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:616][654]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:616][654]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:616][654]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:616][654]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:632][655]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:632][655]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:632][655]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:632][655]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:633][655]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:650][656]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:650][656]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:650][656]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:650][656]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:650][656]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:667][657]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:668][657]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:668][657]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:668][657]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:668][657]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:682][658]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:682][658]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:682][658]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:682][658]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:682][658]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:699][659]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:699][659]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:699][659]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:699][659]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:699][659]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:716][660]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:716][660]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:716][660]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:716][660]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:716][660]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:732][661]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:732][661]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:732][661]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:732][661]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:732][661]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:749][662]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:749][662]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:749][662]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:749][662]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:749][662]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:766][663]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:766][663]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:766][663]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:766][663]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:766][663]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:782][664]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:782][664]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:782][664]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:782][664]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:782][664]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:799][665]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:799][665]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:799][665]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:799][665]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:799][665]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:815][666]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:816][666]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:816][666]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:816][666]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:816][666]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:832][667]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:832][667]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:832][667]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:832][667]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:832][667]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:849][668]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:849][668]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:849][668]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:849][668]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:849][668]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:866][669]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:866][669]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:866][669]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:866][669]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:866][669]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:882][670]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:882][670]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:882][670]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:882][670]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:883][670]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:899][671]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:899][671]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:899][671]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:899][671]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:900][671]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:915][672]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:916][672]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:916][672]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:916][672]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:916][672]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:932][673]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:932][673]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:932][673]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:932][673]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:932][673]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:949][674]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:950][674]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:950][674]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:950][674]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:950][674]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:966][675]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:966][675]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:966][675]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:966][675]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:966][675]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:982][676]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:982][676]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:982][676]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:982][676]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:982][676]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:999][677]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:999][677]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:999][677]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:999][677]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.06:999][677]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:016][678]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:016][678]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:016][678]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:016][678]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:016][678]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:032][679]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:032][679]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:033][679]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:033][679]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:033][679]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:049][680]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:049][680]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:049][680]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:049][680]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:049][680]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:066][681]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:066][681]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:066][681]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:066][681]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:066][681]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:082][682]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:082][682]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:082][682]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:083][682]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:083][682]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:099][683]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:099][683]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:099][683]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:099][683]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:100][683]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:116][684]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:116][684]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:116][684]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:116][684]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:116][684]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:132][685]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:132][685]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:132][685]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:133][685]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:133][685]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:149][686]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:149][686]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:149][686]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:149][686]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:149][686]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:166][687]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:166][687]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:166][687]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:166][687]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:166][687]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:182][688]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:182][688]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:182][688]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:182][688]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:182][688]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:199][689]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:199][689]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:199][689]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:199][689]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:199][689]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:216][690]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:216][690]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:216][690]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:216][690]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:216][690]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:232][691]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:232][691]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:232][691]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:233][691]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:233][691]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:249][692]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:249][692]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:249][692]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:249][692]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:249][692]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:266][693]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:266][693]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:266][693]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:266][693]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:266][693]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:283][694]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:283][694]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:283][694]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:283][694]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:283][694]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:299][695]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:299][695]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:299][695]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:299][695]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:299][695]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:316][696]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:316][696]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:316][696]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:316][696]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:316][696]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:333][697]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:333][697]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:333][697]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:333][697]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:333][697]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:349][698]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:349][698]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:349][698]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:350][698]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:350][698]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:366][699]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:366][699]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:366][699]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:366][699]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:366][699]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:382][700]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:383][700]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:383][700]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:383][700]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:383][700]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:399][701]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:399][701]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:400][701]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:400][701]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:400][701]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:416][702]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:416][702]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:416][702]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:416][702]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:416][702]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:432][703]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:432][703]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:433][703]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:433][703]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:433][703]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:449][704]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:449][704]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:449][704]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:449][704]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:450][704]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:466][705]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:466][705]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:466][705]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:466][705]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:467][705]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:482][706]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:483][706]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:483][706]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:483][706]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:483][706]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:499][707]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:499][707]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:499][707]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:499][707]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:499][707]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:516][708]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:516][708]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:516][708]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:516][708]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:516][708]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:533][709]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:533][709]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:533][709]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:533][709]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:533][709]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:549][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:549][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:549][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:549][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:550][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:566][711]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:566][711]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:566][711]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:566][711]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:567][711]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:583][712]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:583][712]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:583][712]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:583][712]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:583][712]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:600][713]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:600][713]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:600][713]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:600][713]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:600][713]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:616][714]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:616][714]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:616][714]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:616][714]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:616][714]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:633][715]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:633][715]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:633][715]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:633][715]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:633][715]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:649][716]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:650][716]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:650][716]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:650][716]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:650][716]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:666][717]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:666][717]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:666][717]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:666][717]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:667][717]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:683][718]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:683][718]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:683][718]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:683][718]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:683][718]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:699][719]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:700][719]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:700][719]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:700][719]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:700][719]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:717][720]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:717][720]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:717][720]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:717][720]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:717][720]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:733][721]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:733][721]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:733][721]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:733][721]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:733][721]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:750][722]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:750][722]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:750][722]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:750][722]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:750][722]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:766][723]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:766][723]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:766][723]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:767][723]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:767][723]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:783][724]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:783][724]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:783][724]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:783][724]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:783][724]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:800][725]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:800][725]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:800][725]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:800][725]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:800][725]LogChaos: Warning: Attempting to release an actor with a null handle
+[2023.07.30-22.16.07:830][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.30-22.16.07:830][725]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2023.07.30-22.16.07:830][725]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.07.30-22.16.07:830][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.30-22.16.07:842][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.30-22.16.07:849][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.30-22.16.07:917][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.30-22.16.07:918][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.07.30-22.16.07:920][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.07.30-22.16.07:928][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.07.30-22.16.07:969][726]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.07.30-22.17.05:539][177]BlueprintLog: New page: Compile Item_Banana
+[2023.07.30-22.17.05:648][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.07.30-22.17.05:880][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/Items/Item_Banana" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset" SILENT=true
+[2023.07.30-22.17.05:889][177]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/Items/Item_Banana
+[2023.07.30-22.17.05:890][177]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/Item_Banana4571B0EB4695E6CA2B0CD1915A9AF354.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset'
+[2023.07.30-22.17.05:914][177]AssetCheck: New page: Asset Save: Item_Banana
+[2023.07.30-22.17.05:915][177]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/Items/Item_Banana.Item_Banana
+[2023.07.30-22.18.13:811][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset" SILENT=true
+[2023.07.30-22.18.13:825][769]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget
+[2023.07.30-22.18.13:826][769]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/BTT_FSM_GotoTarget8C3857134B2C9CBC46CE2FA4B51993A4.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset'
+[2023.07.30-22.18.13:843][769]AssetCheck: New page: Asset Save: BTT_FSM_GotoTarget
+[2023.07.30-22.18.13:844][769]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.BTT_FSM_GotoTarget
+[2023.07.30-22.18.47:157][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.07.30-22.18.47:161][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="H:/TestWorks/AITemplate5.0.3/Saved/Autosaves/Game/Maps/Map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.07.30-22.18.47:178][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Map_Auto1
+[2023.07.30-22.18.47:178][199]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/Map_Auto1AB261B9A42D183A885A9C68DBEFA0031.tmp' to 'H:/TestWorks/AITemplate5.0.3/Saved/Autosaves/Game/Maps/Map_Auto1.umap'
+[2023.07.30-22.18.47:191][199]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Temp/Autosaves/Game/Maps/Map_Auto1.
+[2023.07.30-22.18.47:192][199]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map' took 0.105
+[2023.07.30-22.18.47:192][199]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.105
+[2023.07.30-22.20.25:838][154]BlueprintLog: New page: Compile BTT_FSM_GotoTarget
+[2023.07.30-22.20.25:843][154]LogBlueprint: Warning: [AssetLog] H:\TestWorks\AITemplate5.0.3\Content\Blueprints\FSM\FSM_BT\Tasks\BTT_FSM_GotoTarget.uasset: [Compiler] 'Item Banana' does not inherit from 'Pawn' ( Cast To Item_Banana  would always fail).
+[2023.07.30-22.20.25:944][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.07.30-22.20.26:173][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset" SILENT=true
+[2023.07.30-22.20.26:187][154]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget
+[2023.07.30-22.20.26:187][154]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/BTT_FSM_GotoTargetF9454D6B44304FC79228C99886B247EF.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset'
+[2023.07.30-22.20.26:214][154]AssetCheck: New page: Asset Save: BTT_FSM_GotoTarget
+[2023.07.30-22.20.26:214][154]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.BTT_FSM_GotoTarget
+[2023.07.30-22.20.46:191][348]BlueprintLog: New page: Compile BTT_FSM_GotoTarget
+[2023.07.30-22.20.46:297][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.07.30-22.20.46:512][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset" SILENT=true
+[2023.07.30-22.20.46:526][348]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget
+[2023.07.30-22.20.46:526][348]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/BTT_FSM_GotoTarget41C502534CDEE4816A7DB79240B5C0DA.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset'
+[2023.07.30-22.20.46:555][348]AssetCheck: New page: Asset Save: BTT_FSM_GotoTarget
+[2023.07.30-22.20.46:555][348]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.BTT_FSM_GotoTarget
+[2023.07.30-22.30.21:238][221]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.07.30-22.30.21:238][221]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.07.30-22.31.52:827][176]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.07.30-22.31.52:827][176]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.07.30-22.32.01:900][719]BlueprintLog: New page: Compile BTT_FSM_GotoTarget
+[2023.07.30-22.32.02:003][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.07.30-22.32.02:183][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset" SILENT=true
+[2023.07.30-22.32.02:197][719]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget
+[2023.07.30-22.32.02:197][719]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/BTT_FSM_GotoTarget34221B614D030279936A0AB756887AC3.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset'
+[2023.07.30-22.32.02:213][719]AssetCheck: New page: Asset Save: BTT_FSM_GotoTarget
+[2023.07.30-22.32.02:213][719]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.BTT_FSM_GotoTarget
+[2023.07.30-22.32.09:190][137]LogEditorTransaction: Undo Add Node
+[2023.07.30-22.32.11:626][210]BlueprintLog: New page: Compile BTT_FSM_GotoTarget
+[2023.07.30-22.32.11:727][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.07.30-22.32.11:940][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset" SILENT=true
+[2023.07.30-22.32.11:954][210]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget
+[2023.07.30-22.32.11:954][210]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/BTT_FSM_GotoTargetA8E832F0494527D53714799DBCEB8C0E.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset'
+[2023.07.30-22.32.11:971][210]AssetCheck: New page: Asset Save: BTT_FSM_GotoTarget
+[2023.07.30-22.32.11:971][210]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.BTT_FSM_GotoTarget
+[2023.07.30-22.33.16:108][542]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.30-22.33.16:119][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.30-22.33.16:119][542]PIE: New page: PIE session: Map (31 июл. 2023 г., 18:33:16)
+[2023.07.30-22.33.16:119][542]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2023.07.30-22.33.16:126][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006692s)
+[2023.07.30-22.33.16:126][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.006784s)
+[2023.07.30-22.33.16:126][542]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.30-22.33.16:126][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.30-22.33.16:127][542]LogAIModule: Creating AISystem for world Map
+[2023.07.30-22.33.16:127][542]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2023.07.30-22.33.16:195][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.07.30-22.33.16:198][542]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.07.30-22.33.16:198][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.30-22.33.16:198][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.30-22.33.16:198][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.30-22.33.16:198][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.30-22.33.16:198][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.30-22.33.16:198][542]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.30-22.33.16:198][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.30-22.33.16:198][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.30-22.33.16:199][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.30-22.33.16:199][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.30-22.33.16:199][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.30-22.33.16:202][542]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.30-22.33.16:234][542]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek High Definition Audio)
+[2023.07.30-22.33.16:234][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.30-22.33.16:234][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.30-22.33.16:234][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.30-22.33.16:235][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.07.30-22.33.16:235][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.07.30-22.33.16:237][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.07.30-22.33.16:237][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.07.30-22.33.16:237][542]LogInit: FAudioDevice initialized.
+[2023.07.30-22.33.16:237][542]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map'.
+[2023.07.30-22.33.16:250][542]LogLoad: Game class is 'GameModeMain_C'
+[2023.07.30-22.33.16:252][542]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2023.07.31-08.33.16
+[2023.07.30-22.33.16:252][542]LogWorld: Bringing up level for play took: 0.001662
+[2023.07.30-22.33.16:255][542]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.07.30-22.33.16:257][542]PIE: Server logged in
+[2023.07.30-22.33.16:258][542]PIE: Play in editor total start time 0,143 seconds.
+[2023.07.30-22.33.17:542][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.30-22.33.17:542][618]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map
+[2023.07.30-22.33.17:542][618]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2023.07.30-22.33.17:542][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.30-22.33.17:555][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.30-22.33.17:562][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.30-22.33.17:627][618]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.30-22.33.17:627][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.07.30-22.33.17:628][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.07.30-22.33.17:633][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.30-22.33.17:636][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.07.30-22.33.17:657][619]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Content: 'C:/Epic Games/UE_5.0/Engine/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Bridge/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:607][455]SourceControl: fatal: C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Epic Games/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'H:/TestWorks/AITemplate5.0.3'
+[2023.07.30-22.33.48:988][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/Items/AC_Pickupable" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/AC_Pickupable.uasset" SILENT=true
+[2023.07.30-22.33.48:993][455]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/Items/AC_Pickupable
+[2023.07.30-22.33.48:993][455]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/AC_Pickupable968EDF214B1929DE1C3BBBA152856854.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/AC_Pickupable.uasset'
+[2023.07.30-22.33.48:994][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/Items/Item_Banana" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset" SILENT=true
+[2023.07.30-22.33.49:003][455]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/Items/Item_Banana
+[2023.07.30-22.33.49:003][455]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/Item_Banana64612E3E47552AE24219E19990B430CF.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/Items/Item_Banana.uasset'
+[2023.07.30-22.33.49:004][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget" FILE="H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset" SILENT=true
+[2023.07.30-22.33.49:018][455]LogSavePackage: Moving output files for package: /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget
+[2023.07.30-22.33.49:018][455]LogSavePackage: Moving 'H:/TestWorks/AITemplate5.0.3/Saved/BTT_FSM_GotoTarget2470937A4BDCFDD7FF47DF9FF7D84710.tmp' to 'H:/TestWorks/AITemplate5.0.3/Content/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.uasset'
+[2023.07.30-22.34.08:225][455]LogSlate: Window 'Submit Files' being destroyed
+[2023.07.30-22.34.08:640][455]LogSourceControl: commit successful: [FSM-Approach ee22773] Per EventDispatcher TESTS
+[2023.07.30-22.34.08:778][455]SourceControl: [FSM-Approach ee22773] Per EventDispatcher TESTS
+[2023.07.30-22.34.08:778][455]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2023.07.30-22.34.08:809][455]SourceControl: Commited [FSM-Approach ee22773] Per EventDispatcher TESTS.
+[2023.07.30-22.34.08:854][456]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.30-22.34.08:854][456]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/Items/AC_Pickupable.AC_Pickupable
+[2023.07.30-22.34.08:854][456]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/Items/Item_Banana.Item_Banana
+[2023.07.30-22.34.08:854][456]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FSM/FSM_BT/Tasks/BTT_FSM_GotoTarget.BTT_FSM_GotoTarget
